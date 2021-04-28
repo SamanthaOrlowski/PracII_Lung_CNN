@@ -24,3 +24,15 @@ Lots of the LungCNN model preprocessing was used from this deprecated model.
 
 #### Dicom files and annotations for this repo can be retrived from here:
  https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=70224216
+
+# References:
+ Reshwan, R. 2021, Benefits from ImageDataGenerator. https://gist.github.com/ReemRashwan/8c92086d3104d01978a16e05ca93a165
+ 
+ Dicom Library UID References
+https://dicomlibrary.com/dicom/sop/
+
+Mask RCNN: https://alittlepain833.medium.com/simple-understanding-of-mask-rcnn-134b5b330e95#:~:text=Mask%20RCNN%20is%20a%20deep,two%20stages%20of%20Mask%20RCNN.
+
+Brownlee, Jason. “How to Train an Object Detection Model with Keras.” Machine Learning Mastery, 1 Sept. 2020, machinelearningmastery.com/how-to-train-an-object-detection-model-with-keras/. 
+
+https://github.com/matterport/Mask_RCNN
