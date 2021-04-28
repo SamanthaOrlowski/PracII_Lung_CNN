@@ -22,8 +22,5 @@ LungCNN.ipynb - Contains the current CNN model for the Lung Cancer diagnosis.
 DeprecatedMaskRCNN.ipynb - contains the deprecated MaskRCNN model that ended up not being used. 
 Lots of the LungCNN model preprocessing was used from this deprecated model.
 
-### Saved_files:
-
-Manifest - Contains the dicom images.
-
-Other_data - Contains the annotations and associated informational files.
+#### Dicom files and annotations for this repo can be retrived from here:
+ https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=70224216
